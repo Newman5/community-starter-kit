@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
+This is a bot that helps people with hints and tips as they complete tasks in a project
 
-DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Guides new users when making contributions to projects
+
 
 ## Getting started
 
